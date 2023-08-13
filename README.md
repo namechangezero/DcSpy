@@ -4,4 +4,7 @@
 # **Guide**:
 ### 1. Go to the [releases](https://github.com/namechangezero/DcSpy/releases) and choose the latest version.
 ### 2. Download the DcSpy.exe
-### 3. Execute the DcSpy.exe and follow the steps
+### 3. Download the latest [Python](https://www.python.org/downloads/) version on python.org/downloads
+### ATTENTION: while installing Python enable the installation of pip if visible (if not, ignore this)
+### 4. After installation execute DcSpy.exe from your Download folder and follow the steps and have fun.
+## For legal reasons: DO NOT USE THIS WITHOUT THE PERMISSION OF THE VICTIM/TARGET
